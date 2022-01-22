@@ -20,6 +20,7 @@ for (let x in person) {
 let fruits=[{"name":"apple","orgin":"kashmir"},{"name":"mango","orgin":"salem"}]
 for (let i of fruits){
     console.log(i)
+}
 
 //for each condition
 var names = ["jerry",  "tom", "pluto", "micky", "mini"];
